@@ -54,7 +54,7 @@ This project serves as a practical demonstration of my expertise in server-side 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Thecode42/.git
+   git clone https://github.com/Thecode42/FinancialSimulator.git
    cd 
 2. Start the application:
    ```bash
